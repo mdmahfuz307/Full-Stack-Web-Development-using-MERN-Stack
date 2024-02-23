@@ -5,8 +5,12 @@
 //trimStat()
 //trimEnd()
 
-const message = 'In THe word';
-console.log(message.includes());
+const UpperLetter = 'tme ami r k?';
+console.log(UpperLetter.toUpperCase()); //Print upperCase Letters
+
+
+const lowerLetter = 'TME AMI R K?';
+console.log(lowerLetter.toLowerCase()); //Print LowerCase Letters
 
 
 // String trim methods
