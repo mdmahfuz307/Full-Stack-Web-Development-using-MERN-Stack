@@ -1,0 +1,77 @@
+🟩 Title Tag:
+- Defines the page title shown in browser tabs and search results
+
+
+🟩 Description Meta Tag:
+- A brief summary of the page's content
+
+
+🟩 Keywords Meta Tag:
+- Lists keywords relevant to the page's content
+
+
+🟩 Robots Meta Tag:
+- Directives for search engine crawling and indexing
+
+
+🟩 Content-Type:
+- Specifies the character encoding for the HTML document
+
+
+🟩 Default-Style:
+- Defines the default stylesheet
+
+
+
+🟩 Refresh:
+- Sets an automatic page refresh interval
+
+
+
+🟩 OG Title:
+- The title for social media sharing
+
+
+🟩 OG Type:
+- The type of content (e.g., website, article)
+
+
+🟩 OG Image:
+- Image URL for social media.
+
+
+🟩Twitter Card:
+- The Twitter card type.
+
+
+🟩Twitter Title/Description:
+- Title and description for Twitter.
+
+
+🟩 Viewport:
+-Controls the page's viewport settings.
+
+
+🟩 Content-Security-Policy:
+-Security policy for resource loading
+
+
+🟩 Application-Name:
+-The name of the web application
+
+
+🟩 Theme-Color:
+-Suggests a browser theme color
+
+
+
+🟩 Google Search Console Verification:
+-Verifies ownership for Google Search Console.
+
+
+🟩 Author, Publisher:
+-Defines the author or publisher of the page.
+
+
+🟩 Pragma, Cache-Control, Expires:
+- Controls browser and server caching.

@@ -1,0 +1,42 @@
+🟩 <!DOCTYPE html>:
+- Declares the document type
+
+
+🟩 <html>:
+- The root element of an HTML page
+
+
+🟩 <head>:
+- Contains meta-information about the document
+
+
+🟩 <body>:
+- Contains the contents of the HTML document
+
+
+🟩 <header>:
+- Represents introductory content, typically containing one or more heading elements (<h1> to <h6>) and navigation elements (<nav>)
+
+
+🟩 <nav>:
+- Defines a set of navigation links
+
+
+🟩 <main>:
+- Specifies the main content of the document
+
+
+🟩 <section>:
+- Defines a section in a document, such as a chapter, header, footer, or any other sections of the document
+
+
+🟩 <article>:
+- Represents a self-contained composition in a document, page, application, or site
+
+
+🟩 <aside>:
+- Used for content that is tangentially related to the content around the <aside> element
+
+
+🟩 <footer>:
+Represents the footer of a document or section

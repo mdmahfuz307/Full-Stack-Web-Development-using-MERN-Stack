@@ -1,0 +1,19 @@
+
+🟩 <form>:
+- This tag is used to create the form. The action attribute specifies where the form data should be sent when it's submitted,
+and the method attribute specifies the HTTP method (GET or POST).
+
+🟩 <label>:
+- Defines a label for an <input> element.
+
+🟩 <input>:
+- This tag is a versatile form element. Depending on the type attribute,
+it can be a text field, password field, radio button, checkbox, etc.
+
+
+🟩 <textarea>:
+- Allows for multi-line text input. It's useful for longer,
+free-form text like comments or descriptions.
+
+🟩 <input type="submit">:
+- Defines a button for submitting the form.

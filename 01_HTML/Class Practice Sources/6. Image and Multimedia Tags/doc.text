@@ -1,0 +1,17 @@
+
+🟩 <img>:
+- This tag is used for embedding an image in the HTML page. The src attribute specifies the path
+to the image file, and the alt attribute provides alternative text for the image if it cannot be displayed.
+The width attribute specifies the width of the image.
+
+🟩 <video>:
+- The <video> tag is used to embed video content.
+It can contain one or more <source> elements to specify multiple video sources for different formats.
+The controls attribute adds video controls, like play, pause, and volume.
+
+🟩 <audio>:
+- Similar to <video>, the <audio> tag is used for embedding audio content and
+can contain multiple <source> elements. The controls attribute adds audio controls.
+
+🟩 <iframe>:
+- This tag is used to embed another HTML document within the current page.

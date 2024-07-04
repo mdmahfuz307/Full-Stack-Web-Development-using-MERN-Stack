@@ -1,0 +1,23 @@
+🟩 <button>:
+- A clickable button.
+
+
+🟩 <details> and <summary>:
+- These tags create a collapsible section. <details> is the container, and <summary> provides a clickable heading.
+Content placed within <details> but outside <summary> is hidden or shown when the user clicks on the <summary>.
+
+
+🟩 <dialog>:
+- Represents a dialog box or other interactive component. JavaScript is used to show and hide the dialog.
+
+
+🟩 <progress>:
+- Displays a progress bar. The value attribute specifies the current progress.
+
+
+🟩 <input type="range">:
+- Creates a slider for selecting a numerical value within a specified range.
+
+
+🟩 <select> and <option>:
+- Create a dropdown list. <select> defines the dropdown, and <option> elements represent the options within the dropdown.

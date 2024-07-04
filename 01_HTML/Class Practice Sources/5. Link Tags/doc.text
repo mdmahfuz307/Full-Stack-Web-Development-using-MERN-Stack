@@ -1,0 +1,15 @@
+🟩 External links:
+-These are links that lead to other websites. The target="_blank"
+attribute opens the link in a new tab or window.
+
+🟩 Internal links:
+-These links lead to different sections within the same web page.
+
+
+🟩 Email link:
+- The mailto: protocol in the href attribute creates a
+link that opens the user's default email client with the address specified in the link.
+
+🟩 Telephone link:
+- The tel: protocol creates a link that,
+when clicked on a device capable of making phone calls, will start a call to the specified number.

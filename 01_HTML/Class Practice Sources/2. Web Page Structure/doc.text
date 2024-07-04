@@ -1,0 +1,20 @@
+🟩 DOCTYPE Declaration:
+- This declaration defines the document type and version of HTML
+
+
+🟩 HTML Element:
+- This is the root element of an HTML page
+
+
+🟩 Head Section:
+- Contains meta-information about the document, like character encoding, title, linked CSS files, and scripts.
+
+
+🟩 Body Section:
+- Contains the contents of the HTML document.
+- This is where you place the content that will be visible to users.
+
+
+🟩 Comments
+- Comments are not displayed in the browser, but they can help document your HTML source code
+

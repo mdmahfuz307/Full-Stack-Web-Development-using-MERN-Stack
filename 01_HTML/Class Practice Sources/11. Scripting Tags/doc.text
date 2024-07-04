@@ -1,0 +1,4 @@
+🟩 The <script> tag  section contains JavaScript code directly within it.
+
+🟩 The <noscript> tag provides an alternative content for users who have JavaScript disabled in their browser.
+This is important for accessibility and ensuring that essential information or functionality is still available without JavaScript.

@@ -1,0 +1,14 @@
+🟩 <iframe>:
+- This tag embeds an external webpage within the current HTML document.
+
+
+🟩 <embed>:
+- Used for embedding external content like a video.
+
+
+🟩 <object>:
+- A versatile tag for embedding various types of multimedia and applications.
+
+
+🟩 <svg>:
+- Stands for Scalable Vector Graphics. It's used to define vector-based graphics in XML format.
