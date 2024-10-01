@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <h1 id="myData">
+
+    </h1>
+
+
+
+
+
+    <script>
+
+
+
+     getProductListFromBackEnd();
+
+
+
+
+       async function getProductListFromBackEnd(){
+
+
+            try{
+
+                debugger;
+
+                let myData=document.getElementById("myData");
+                myData.innerText="Loading......"
+           
+                let URL="https://crud.teamrabbil.com/api/v1/ReadProduct"
+                let res=await fetch(URL)  
+                let data=await res.json()
+
+                myData.innerText=JSON.stringify(data)
+
+
+            }catch(error){
+
+                let myData=document.getElementById("myData")
+                myData.innerText="Something Went Wrong"
+                console.log(error)
+
+            }
+
+
+
+
+
+        }
+
+
+
+
+    </script>
+
+
+</body>
+</html>
