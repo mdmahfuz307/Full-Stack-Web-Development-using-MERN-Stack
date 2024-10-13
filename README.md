@@ -1,6 +1,6 @@
 # Ostad Full Stack Web Development using MERN Stack Course
 
-![Ostad]([https://media.licdn.com/dms/image/C560BAQH0FaeOknHxFg/company-logo_200_200/0/1670521591492/programminghero_logo?e=2147483647&v=beta&t=oRQgG7D0HM_03Tmv6WH9zgQmQvGxjCjRYnSLv967coc](https://media.licdn.com/dms/image/v2/C4D0BAQGpdX33IWM1Bg/company-logo_200_200/company-logo_200_200/0/1679467064122/ostad_inc_logo?e=1736985600&v=beta&t=GY0SlP5rt1vlQWufGkKiUCryZVjByPEAo88BSzl3RfQ))
+![Ostad](https://media.licdn.com/dms/image/v2/C4D0BAQGpdX33IWM1Bg/company-logo_200_200/company-logo_200_200/0/1679467064122/ostad_inc_logo?e=1736985600&v=beta&t=GY0SlP5rt1vlQWufGkKiUCryZVjByPEAo88BSzl3RfQ)
 
 Welcome to my GitHub repository for the Ostad Full Stack Web Development using MERN Stack Course. This repository contains all the modules code, projects, and exercises I have completed throughout the course.
 
