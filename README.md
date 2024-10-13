@@ -22,7 +22,7 @@ This course, offered by Ostad, covers a comprehensive curriculum in web developm
 If you have any questions or suggestions, feel free to contact me:
 
 - **Email:** njnirob2019@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mdmahfuz307/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mdmahfuz307/)
 
 
 Thank you for visiting my repository! I hope you find my projects helpful and inspiring.
